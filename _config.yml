@@ -1,0 +1,20 @@
+# site setting
+title: one
+baseurl: /one
+description: I’m <strong>Bennet Freeman</strong> and I love fashion, food, technology, but most of all life. Here in this <em>blog</em>, I always make sure that I create valuable content that attracts attention and drives traffic <a href="http://hatkit.com/about/">... Read more »</a>.
+tagline: "Success. It's a Mind Game."
+
+#build setting
+markdown: kramdown
+  
+exclude: ['README.md']
+permalink: pretty #to remove .html
+
+#sociallinks
+facebook_username: crigroups
+twitter_username: crigroups   
+instagram_username: crigroups
+youtube_username: crigroups
+
+
+

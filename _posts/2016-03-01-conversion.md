@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 date: 2016-02-02
 title: boost effect
 blockone-title: Boost Effect

@@ -154,7 +154,7 @@ body, h2,h3,h4,h5,p,a {font-family: 'Roboto', sans-serif;}
     font-weight: 600 !important}
 .products li {float: left;
     padding: 7px 27px;
-    padding-left: 0px;width: 50%;}
+    padding-left: 0px;}
 .products li a{color:#fff;font-size:16px;} 
 .products li i{padding-right: 5px;
     color: #ef7c46;}
@@ -179,3 +179,13 @@ body, h2,h3,h4,h5,p,a {font-family: 'Roboto', sans-serif;}
     margin-top: 120px;
     color: #fff;
     font-weight: bold;}
+.about-us{width:100%;background-color:#f5f5f5 !important;display:inline-block;margin-top:40px;padding:30px 0 30px 0}
+.about-us img{max-width: 100%;
+    height: auto;}
+.about-us h2{    font-weight: bold;
+    font-style: normal;
+    text-transform: none;
+    text-decoration: none;
+    line-height: 1.3em;color: #353439;}
+.about-us p{ padding-bottom: 20px;
+    color: #525e6c;line-height:2em;    font-size: 18px;}

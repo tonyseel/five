@@ -8,7 +8,7 @@ This privacy policy sets out how we use and protect any information that you giv
 
 ## What we collect
 
-We may collect the following information:
+We may collect the following information: 
 
 * Name and job title
 * Contact information including email address

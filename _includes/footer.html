@@ -18,7 +18,8 @@
 			 <div class="col-md-6 social">
 			   <h3>Products</h3>
 			   <ul class="products">
-			    {% for post in site.posts limit:8 %}
+			    {% for post in site.posts %}
+
          <li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
          </li>
 				 

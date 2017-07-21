@@ -18,14 +18,11 @@
 			 <div class="col-md-6 social">
 			   <h3>Products</h3>
 			   <ul class="products">
-				   <li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><a href="#">Submersible Pumps</a></li>
-				   <li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><a href="#">Submersible Pumps</a></li>
-				   <li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><a href="#">Submersible Pumps</a></li>
-				    <li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><a href="#">Submersible Pumps</a></li>
-				   <li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><a href="#">Submersible Pumps</a></li>
-				   <li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><a href="#">Submersible Pumps</a></li>
-				    <li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><a href="#">Submersible Pumps</a></li>
-				   <li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><a href="#">Submersible Pumps</a></li>
+			    {% for post in site.posts limit:8 %}
+         <li><i class="fa fa-arrow-circle-right" aria-hidden="true"></i><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+         </li>
+				 
+	  {% endfor %}  
 			   </ul>
 			 </div>
 			

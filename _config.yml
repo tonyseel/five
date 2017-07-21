@@ -1,8 +1,8 @@
 # site setting
 title: one
 baseurl: /one
-description: I’m <strong>Bennet Freeman</strong> and I love fashion, food, technology, but most of all life. Here in this <em>blog</em>, I always make sure that I create valuable content that attracts attention and drives traffic <a href="http://hatkit.com/about/">... Read more »</a>.
-tagline: "Success. It's a Mind Game."
+description: We help you get more leads by creating and managing high performing landing pages.
+tagline: Get higher conversion rates on landing pages
 
 #build setting
 markdown: kramdown

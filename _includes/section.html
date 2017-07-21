@@ -1,11 +1,8 @@
-     {% for post in site.posts %}
-     {% if post.categories contains 'blog' %}
+     {% for post in site.posts %}     
             <div class="col-md-4 split-content">
 					<img src="{{site.baseurl}}/image/rocket2.png"/>
 					<a href="{{ post.url | prepend: site.baseurl }}"><h3>{{post.blockone-title}}</h3></a>
 					<p>{{post.blockone-content}}</p>
 				
-				</div>
-
-      {% endif %}       
-{% endfor %}
+				</div>     
+     {% endfor %}

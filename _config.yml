@@ -19,5 +19,7 @@ twitter_username: crigroups
 instagram_username: crigroups
 youtube_username: crigroups
 
+gems:
+  - jekyll-seo-tag
 
 

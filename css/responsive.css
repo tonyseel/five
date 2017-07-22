@@ -29,13 +29,14 @@
     width: 100%;}
     .content p{width:100%;}
 	.content-section{margin-top:20px}
-	.content h2 {font-size: 20px;s
+	.content h2 {font-size: 25px;
     line-height: 1.2em;}
 	.content p{font-size: 13px;}
 	.split-content h3 {
     padding-bottom: 0px;
-		font-size: 18px;}
-	.split-content p{    line-height: 2em;
+		    font-size: 25px;    font-weight: 600;
+    color: #000;}
+	.split-content p{    line-height: 2.7em;
     font-size: 13px;
     margin-top: 18px;}
     .newletter a{    background-color: #69c0bc;
@@ -45,9 +46,9 @@
     float: left;
     margin-top: 10px;
     border-radius: 4px;}
-    .about-us h2{font-size:22px}
+    .about-us h2{font-size:25px}
     .about-us p{line-height: 1.5em;
-        font-size: 16px;}
+        font-size: 15px;}
             .desc-center {
     margin: 0 auto;
     text-align: center;

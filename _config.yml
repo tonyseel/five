@@ -21,8 +21,6 @@ youtube_username: crigroups
 
 gems:
   - jekyll-seo-tag
-
-gems:
   - jekyll-sitemap
 
 

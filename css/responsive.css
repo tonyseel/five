@@ -48,6 +48,15 @@
     .about-us h2{font-size:22px}
     .about-us p{line-height: 1.5em;
         font-size: 16px;}
+            .desc-center {
+    margin: 0 auto;
+    text-align: center;
+    padding: 15px;
+}
+    .contact-us p{font-size: 16px;line-height: 1.5em;}
+    .contact-us h2{font-size:22px}
+    .contact-us a{font-size: 14px}
+    
 }
 
 @media only screen and (min-width:768px) and (max-width:1024px)

@@ -3,10 +3,16 @@ title: one
 baseurl: /one
 description: We help you get more leads by creating and managing high performing landing pages.
 tagline: Get higher conversion rates on landing pages
+#banner
 heading: We give you increased results – every time!
 sub-heading: Use our expertise to design effective landing pages. After we design and make your page, we help you optimize through A/B testing in order to make it perform to it’s max potential.
+#about
 about-title: External landing pages simply work better
 about-content: Why do you need external landing pages? Your website is designed with a general purpose in mind. Your landing pages are designed with one purpose. Conversion. By removing navigation and other clutter you will be able to better present your unique selling proposition for that specific campaign or activity. 
+#contact
+contact-title: Get higher conversion rates on landing pages
+contact-desc: We help you get more leads by creating and managing high performing landing pages.
+contact-num: 6478794709
 #build setting
 markdown: kramdown
   

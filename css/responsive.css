@@ -15,7 +15,8 @@
     margin-top: 13px;
     margin-bottom: 7px;
     width: 83%;
-      line-height: 1.2em;}
+    margin: 0 auto;
+    display: block;    line-height: 1.4em;}
 	.banner-content h5{text-align: center;
     font-size: 17px;
     line-height: 1.4em;

@@ -24,7 +24,7 @@ facebook_username: crigroups
 twitter_username: crigroups   
 instagram_username: crigroups
 youtube_username: crigroups
-
+google-plus_username: crigroups
 gems:
   - jekyll-seo-tag
   - jekyll-sitemap

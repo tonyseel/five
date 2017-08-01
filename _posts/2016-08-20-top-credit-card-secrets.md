@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2016-08-20
-title: Credit Card Secrets: 3 Great Tips for Using Your Debt
+title: Credit Card Secrets: 3 Great Tips
 ---
 
 Much like other financial investment vehicles, credit cards have a bunch of "secrets" that the average consumer never learns to take advantage of - and the companies like it that way. Indeed; if more people knew about and used these; lending via credit as an institution would eventually cease to exist as the margins shrunk.

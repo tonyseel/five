@@ -20,11 +20,11 @@ exclude: ['README.md']
 permalink: pretty #to remove .html
 
 #sociallinks
-facebook_username: crigroups
-twitter_username: crigroups   
+facebook_username: Hatkit-Credit-Repair-1887916628195003
+twitter_username: hatkit83   
 instagram_username: crigroups
 youtube_username: crigroups
-google-plus_username: crigroups
+google-plus_username: u/0/109075708523313177474
 gems:
   - jekyll-seo-tag
   - jekyll-sitemap

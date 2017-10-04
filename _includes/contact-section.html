@@ -3,7 +3,7 @@
 		<div class="desc-center">
 		 {% for contact in site.data.contact-section %}
 			<h2>{{contact.contact-title}}</h2>
-			<p>{{contact.contact-desc}}</p>
+			<p>{{contact.contact-subtitle}}</p>
 			{% endfor %}
             {% for header in site.data.header-top %}
 			<a href="tel:{{site.contact-num}}">CALL: {{header.phone-number}}</a>

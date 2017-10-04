@@ -1,52 +1,13 @@
 --- 
 layout: default 
 --- 
-	<div class="banner-section">
-		<div class="container">
-			<div class="col-md-6 banner">
-				<img src="{{site.baseurl}}/image/finge-600-21.png"/>
-			</div>
-			<div class="col-md-6">
-			   <div class="banner-content">
-				<h3>{{site.tagline}}</h3>
-				<h5>{{site.description}}</h5>
-				 <a href="tel:{{site.contact-num}}">CALL: {{site.contact-num}}</a>
-				  
-			</div>
-		</div>
-	</div>
-</div>
-<div class="content-section">
-		<div class="container">
-		  <div class="content">
-			<h2>{{site.heading}}</h2>
-			<p>{{site.sub-heading}}</p>
-			</div>
-			<div class="row">
-				{% include section.html %}
-			</div>
-		</div>
-	</div>
-<div class="about-us" id="nav2">
-		<div class="container">
-			<div class="col-md-6">
-				<img src="{{site.baseurl}}/image/campaign-monitor-mbp.png"/>
-			</div>
-			<div class="col-md-6">
-				<h2>{{site.about-title}}</h2>
-				<p>{{site.about-content}}</p>
-			</div>
-		</div>
-	</div>
 
-<div class="contact-us" id="nav4">
-		<div class="container">
-		<div class="desc-center">
-			<h2>{{site.contact-title}}</h2>
-			<p>{{site.contact-desc}}</p>
-			<a href="tel:{{site.contact-num}}">CALL: {{site.contact-num}}</a>
-			</div>
-		</div>
-	</div>
+{% include banner-section.html %}
+
+{% include product-section.html %}
+
+{% include about-section.html %}
+
+{% include contact-section.html %}
 	
 	

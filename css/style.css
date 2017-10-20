@@ -246,6 +246,18 @@ body, h2,h3,h4,h5,p,a {font-family: 'Roboto', sans-serif;}
 #fof .fl_right p{display:block; margin:0 0 25px 0; padding:0; font-size:16px;}
 #fof .fl_right #respond input{width:200px; padding:5px; border:1px solid #CCCCCC;}
 #fof .fl_right #respond #submit{width:auto;}
+/*--inner-product page start--*/
+.productwrapper{padding:30px 0px}
+.productwrapper h2{font-size:30px;color:#524f4f;text-align:left}
+.productwrapper ul {width:100%;display:inline-block;padding:0px;}
+.productwrapper ul li {
+    float: left;
+    width: 32%;
+    padding: 5px 5px;
+    display: inline-block;
+}
+.productwrapper ul li img{width:100%}
+/*--inner-product page start--*/
     /************************************************************************************** IE FIXING ******************************************************************/
 
 .responsive-design{color:#13D3F3\9} 
